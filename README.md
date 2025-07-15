@@ -1,4 +1,4 @@
-# 資料實作
+# 資料分析專案實作
 + 資料集取自kaggle
 
 ## fp-growth.ipynb
